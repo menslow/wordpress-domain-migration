@@ -1,0 +1,5 @@
+SQL script for migrating a single instance of WordPress (not multisite) to a new domian. 
+
+This is adapted from the following blog post by @Dixie:
+
+http://www.thesishosting.com/2009/12/topics/wordpress/moving-wordpress-installation-to-new-domain-sql
